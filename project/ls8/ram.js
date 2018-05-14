@@ -13,6 +13,7 @@ class RAM {
     write(MAR, MDR) {
         // !!! IMPLEMENT ME
         // write the value in the MDR to the address MAR
+        0001000
     }
 
     /**
