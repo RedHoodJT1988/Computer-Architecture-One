@@ -19,7 +19,7 @@ class RAM {
   /**
    * Read (load) MDR value from address MAR
    *
-   * @returns MDR
+   * returns MDR
    */
   read(MAR) {
     // !!! IMPLEMENT ME
